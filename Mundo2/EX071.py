@@ -1,0 +1,1 @@
+# Desafio 71 - programa que simule um caixa eletronico, pergunte qual o valor a ser sacado inteiro, deverá informar quantas cédulas de cada valor serão entregues. 50, 20, 10 e 1
