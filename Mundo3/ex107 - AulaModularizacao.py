@@ -8,7 +8,7 @@ Vantagens:
 - Reutilizar em outros projetos
 '''
 
-import Mundo3.uteis.uteis as uteis
+import modulos.uteis.numeros.uteis as uteis
 
 num = int(input('Digite um valor: '))
 fat = uteis.fatorial(num)
